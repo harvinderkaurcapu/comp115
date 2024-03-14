@@ -126,9 +126,9 @@ def draw_coded(coded, color):
 # You can uncomment the following 3 lines to test your function draw_coded(),
 # and remember to comment these 3 lines after your testing for exercise 2.
 
-window = turtle.Screen()
-draw_coded('10001101', 'red')
-window.exitonclick()
+#window = turtle.Screen()
+#draw_coded('10001101', 'red')
+#window.exitonclick()
 
 
 
