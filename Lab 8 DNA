@@ -122,8 +122,7 @@ def draw_coded(coded, color):
         if bit == '0':
             draw_0(t)
         elif bit == '1':
-            draw_1(t)
-    turtle.done()
+            draw_1(t) 
 # You can uncomment the following 3 lines to test your function draw_coded(),
 # and remember to comment these 3 lines after your testing for exercise 2.
 
